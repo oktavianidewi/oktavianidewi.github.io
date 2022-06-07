@@ -34,7 +34,7 @@ github_username:  oktaviani.dewi
 
 # Build settings
 remote_theme: samarsault/plainwhite-jekyll
-theme: plainwhite
+# theme: plainwhite
 plugins:
   - jekyll-feed
 
