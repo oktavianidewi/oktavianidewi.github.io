@@ -33,8 +33,8 @@ twitter_username: _oktavianidewi
 github_username:  oktaviani.dewi
 
 # Build settings
+remote_theme: samarsault/plainwhite-jekyll
 theme: plainwhite
-remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
 
