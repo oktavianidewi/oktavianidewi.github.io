@@ -74,6 +74,8 @@ plainwhite:
       url: "/blog"
     - title: Resume
       url: "/resume"
+    - title: About Me
+      url: "/about"
   
   condensed_mobile:
     - home
@@ -84,4 +86,4 @@ plainwhite:
   
   dark_mode: true
 
-  baseurl: "/about"
+  baseurl: "/blog"
