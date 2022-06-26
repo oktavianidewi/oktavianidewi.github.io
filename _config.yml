@@ -72,8 +72,8 @@ plainwhite:
   navigation:
     - title: About Me
       url: "/about"
-    # - title: Resume
-    #   url: "/resume"
+    - title: Posts
+      url: "/"
 
   
   condensed_mobile:
