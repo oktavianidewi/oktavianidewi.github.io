@@ -90,7 +90,7 @@ Here are the explanations of each config:
 - `image: postgres` : we are going to download an official postgres image to local directory and run it in a docker container.
     - `image` is a read-only, immutable (unchangeable) file contains the source code, libraries, dependencies, tools, etc. for an application to run [https://phoenixnap.com/kb/docker-image-vs-container](https://phoenixnap.com/kb/docker-image-vs-container). Images are sometime referred to as snapshots.
 
-![[https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/02/es-docker-blog-img1.png.webp](https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/02/es-docker-blog-img1.png.webp)](img/docker-image-container.png)
+![docker image and container](../../../../assets/img/docker-image-container.png)
 
 [https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/02/es-docker-blog-img1.png.webp](https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/02/es-docker-blog-img1.png.webp)
 

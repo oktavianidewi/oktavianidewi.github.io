@@ -70,12 +70,11 @@ plainwhite:
   portfolio_image:  "assets/dewi-public-photo-circle.png" # the path from the base directory of the site to the image to display (no / at the start)
   
   navigation:
-    - title: My Post
-      url: "/blog"
-    - title: Resume
-      url: "/resume"
     - title: About Me
       url: "/about"
+    # - title: Resume
+    #   url: "/resume"
+
   
   condensed_mobile:
     - home
@@ -85,5 +84,9 @@ plainwhite:
   search: true
   
   dark_mode: true
+
+  sitemap: true
+
+  show_excerpts: true
 
   baseurl: "/blog"
