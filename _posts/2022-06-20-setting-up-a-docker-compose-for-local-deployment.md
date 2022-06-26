@@ -5,9 +5,6 @@ date:   2022-06-20 04:29:10 +0700
 categories: docker
 ---
 
-
-# Setting up a docker-compose for local deployment
-
 Hi there, 
 
 In a working environment, we don’t always have a ‘safety place’ to test and play around with new tools, hence, doing experiment in local deployment still be our favorite things. Thankfully in this era, we have a tool named Docker, that make us easier to bring our production environment into the local computer. 
